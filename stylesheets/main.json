@@ -1,5 +1,5 @@
 {
   "name": "main.css",
   "type": "css",
-  "contents": ""
+  "contents": "* {\n    box-sizing: border-box;\n}"
 }

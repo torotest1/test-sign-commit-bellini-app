@@ -1,5 +1,6 @@
 {
   "name": "test-sign-commit",
   "type": "app",
-  "defaultPage": "home"
+  "defaultPage": "home",
+  "config": null
 }
